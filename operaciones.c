@@ -13,13 +13,14 @@ int restar(int a, int b) {
 }
 
 /* ── multiplicar — implementar en feature/mi-funcion ─────────────────────── */
-/* ── multiplicar — La funcion en cuestion que lleva el nombre de "multiplicar", se encarga de mediante la recepcion de dos enteros proporcionados con anterioridad, hacer el producto de estos mismos. ─────────────────────── */
+/* ── multiplicar — realiza la una multiplicacion entre dos enteros ─────────────────────── */
 int multiplicar(int a, int b) {
     return a * b;
 }
 
-/* ── esPar ────────────────────────────────────────────────────────────────── */
 
+
+/* ── esPar ────────────────────────────────────────────────────────────────── */
 int esPar(int n) {
-    return (n % 2) == 0;
+    return (n % 2) == 0; /* version main */
 }
