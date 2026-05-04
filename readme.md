@@ -676,7 +676,7 @@ d) El tiempo que tardó en implementarse y el nombre del autor
 ```
 RESPUESTA_P7=c
 ```
-
+.
 ---
 
 ## Entrega
