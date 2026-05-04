@@ -13,7 +13,7 @@ int restar(int a, int b) {
 }
 
 /* ── multiplicar — implementar en feature/mi-funcion ─────────────────────── */
-/* ── multiplicar — realiza la una multiplicacion entre dos enteros ─────────────────────── */
+/* ── multiplicar — El wacho este la curte de piola con dos enteros y se corta solo para hacer el producto entre estos (de piola) ─────────────────────── */
 int multiplicar(int a, int b) {
     return a * b;
 }
